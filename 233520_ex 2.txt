@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: ex 2, Configuration: Debug Any CPU ------
+1>  ex 2 -> D:\VsCode\ex 2\ex 2\bin\Debug\ex 2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
